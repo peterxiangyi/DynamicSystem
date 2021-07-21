@@ -29,6 +29,7 @@ expander_bar.markdown("""
 * **Python libraries:** streamlit, matplotlib, PIL, numpy
 * **Logistic Equation:** X(n)=r\*X(n-1)\*(1-X(n-1)), *r* is growth rate.
 * **Credit:** Inspired by [Complexity Explorer website](https://www.complexityexplorer.org)
+* **Bifurcation:** Source from [Complexity Explorer website](https://s3.amazonaws.com/complexityexplorer/DynamicsAndChaos/Programs/bifurcation.html)
 """)
 
 #----------------------------------------------------------------------------#
